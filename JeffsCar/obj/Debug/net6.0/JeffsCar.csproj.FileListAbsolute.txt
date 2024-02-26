@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\bin\Debug\net6.0\JeffsCar.exe
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\bin\Debug\net6.0\JeffsCar.deps.json
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\bin\Debug\net6.0\JeffsCar.runtimeconfig.json
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\bin\Debug\net6.0\JeffsCar.dll
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\bin\Debug\net6.0\JeffsCar.pdb
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.dll
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\refint\JeffsCar.dll
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.pdb
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\JeffsCar.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Desktop\Willijefferson\backend\JeffsCar\JeffsCar\obj\Debug\net6.0\ref\JeffsCar.dll
